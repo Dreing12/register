@@ -1,0 +1,16 @@
+{
+  "description": "This is a website to serve clients my coding, design and marketing techniques. It is for DMARC verification.",
+  "domain": "is-local.org",
+  "subdomain": "*.aypetebe",
+  "owner": {
+    "repo": "https://github.com/Dreing12/register",
+    "email": "andreicabanero12@duck.com"
+  },
+  "record": 
+      { "NS": [
+            "bayan.ns.cloudflare.com",
+            "brit.ns.cloudflare.com"
+    ]
+  },
+  "proxied": false
+}
